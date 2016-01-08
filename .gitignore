@@ -1,0 +1,28 @@
+*/target
+target
+*~
+lib
+*/test-output
+temp-testng-customsuite.xml
+**pom.xml.releaseBackup
+release.properties
+*.iws
+config.properties
+.settings
+.classpath
+.project
+*.ipr
+*.iml
+
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
